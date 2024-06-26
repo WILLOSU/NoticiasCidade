@@ -1,4 +1,4 @@
-# Projeto Tec Blog
+# Projeto Notícias Cidade
 
 Projeto desenvolvido durante 1º semestre do ano de 2024. é um projeto com técnicas CSS e HTML simples.
 
